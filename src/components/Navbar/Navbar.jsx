@@ -10,9 +10,9 @@ const Navbar = () => {
             <nav className="menu">        
                 <button className="menu-btn">Categorias</button>
                 <ul>
-                    <li><a href="menu-link">Tegnologia</a></li>
-                    <li><a href="menu-link">Electrodomesticos</a></li>
-                    <li><a href="menu-link">Accesorios Moda</a></li>
+                    <li><a href="#">Tegnologia</a></li>
+                    <li><a href="#">Electrodomesticos</a></li>
+                    <li><a href="#">Accesorios Moda</a></li>
                 </ul>
             </nav>
             </div>
