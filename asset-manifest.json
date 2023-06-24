@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/preEntrega1-Vicente-Quito/static/css/main.25c5dff3.css",
-    "main.js": "/preEntrega1-Vicente-Quito/static/js/main.635c0b94.js",
+    "main.js": "/preEntrega1-Vicente-Quito/static/js/main.343b8931.js",
     "index.html": "/preEntrega1-Vicente-Quito/index.html",
     "main.25c5dff3.css.map": "/preEntrega1-Vicente-Quito/static/css/main.25c5dff3.css.map",
-    "main.635c0b94.js.map": "/preEntrega1-Vicente-Quito/static/js/main.635c0b94.js.map"
+    "main.343b8931.js.map": "/preEntrega1-Vicente-Quito/static/js/main.343b8931.js.map"
   },
   "entrypoints": [
     "static/css/main.25c5dff3.css",
-    "static/js/main.635c0b94.js"
+    "static/js/main.343b8931.js"
   ]
 }
