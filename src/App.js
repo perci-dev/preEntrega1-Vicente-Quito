@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
      <Navbar />
-     <ItemListContainer props = { " Bienvenidos A ecommerce Vicente " } />
+     <ItemListContainer greetings = { " Bienvenidos A ecommerce Vicente " } />
     </div>
   );
 }
